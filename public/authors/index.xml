@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Solids &amp; materials lab</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Solids &amp; materials lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 25 Aug 2019 02:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ananyarb</title>
+      <link>/authors/ananyarb/</link>
+      <pubDate>Sun, 25 Aug 2019 02:00:00 +0600</pubDate>
+      
+      <guid>/authors/ananyarb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
